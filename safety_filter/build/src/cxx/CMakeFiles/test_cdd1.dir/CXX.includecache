@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kaijun/code/CrowdNav_SafetyFilter/safety_filter/src/cxx/test/test_cdd1.cpp
+cddlib/setoper.h
+-
+cddlib/cdd.h
+-
+gmpxx.h
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+string.h
+-
+Eigen/Core
+-
+

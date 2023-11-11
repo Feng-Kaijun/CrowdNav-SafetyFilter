@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g  -shared -Wl,-soname,libPolyhedron.so -o libPolyhedron.so CMakeFiles/Polyhedron.dir/Polyhedron.cpp.o  -Wl,-rpath,/usr/local/lib:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: /usr/local/lib/libcdd.so 

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/test_inv3D.dir/test/test_inv3D.cpp.o  -o test_inv3D  -Wl,-rpath,/home/kaijun/code/CrowdNav_SafetyFilter/safety_filter/build/src/cxx:/usr/local/lib libSafetyFilter.so libPolyhedron.so /usr/local/lib/libcdd.so /usr/local/lib/libOsqpEigen.so.0.8.0 /usr/local/lib/libosqp.so 

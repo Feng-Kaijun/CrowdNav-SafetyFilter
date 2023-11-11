@@ -1,0 +1,5 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "Unix Makefiles" -S /home/kaijun/code/CrowdNav_SafetyFilter/safety_filter -B /home/kaijun/code/CrowdNav_SafetyFilter/safety_filter/build
+-- Found pybind11: /usr/local/include (found version "2.11.0dev1")
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kaijun/code/CrowdNav_SafetyFilter/safety_filter/build
