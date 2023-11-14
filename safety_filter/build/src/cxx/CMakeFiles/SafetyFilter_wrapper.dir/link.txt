@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC -g  -shared  -o SafetyFilter_wrapper.cpython-36m-x86_64-linux-gnu.so CMakeFiles/SafetyFilter_wrapper.dir/SafetyFilter_wrapper.cpp.o  -Wl,-rpath,/home/kaijun/code/CrowdNav_SafetyFilter/safety_filter/build/src/cxx:/usr/local/lib:::: libSafetyFilter.so libPolyhedron.so /usr/local/lib/libcdd.so /usr/local/lib/libOsqpEigen.so.0.8.0 /usr/local/lib/libosqp.so 
